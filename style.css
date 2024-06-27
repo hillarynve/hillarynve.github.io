@@ -235,7 +235,7 @@ section {
 }
 
 .btn-color-1, btn-color-2 {
-    border: rbg(53,53,53) 0.1rem solid;
+    border: rgb(53,53,53) 0.1rem solid;
 }
 .btn-color-1:hover, .btn-color-2:hover{
     cursor: pointer;
@@ -397,7 +397,7 @@ article .icon {
     border-radius: 2rem;
     border: rgb(53,53,53) 0.1rem solid;
     border-color: rgb(163,163,163);
-    background: (250,250,250);
+    background: rgb(250,250,250);
     margin: 2rem auto;
     padding: 0.5rem;
 }
@@ -420,4 +420,15 @@ article .icon {
 
 .email-icon {
     height: 2.5rem;
+}
+
+/* FOOTER SECTION */
+
+footer {
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p{
+    text-align: center;
 }
