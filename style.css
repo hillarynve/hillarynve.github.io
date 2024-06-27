@@ -253,8 +253,8 @@ section {
 }
 
 .btn-color-2 {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 
 .btn-color-2:hover {
